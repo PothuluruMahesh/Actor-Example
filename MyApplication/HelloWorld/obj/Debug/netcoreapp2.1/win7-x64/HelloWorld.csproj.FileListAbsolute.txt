@@ -1,0 +1,4 @@
+F:\JAVA\C#\Actor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.dll
+F:\JAVA\C#\Actor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\Actor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.AssemblyInfoInputs.cache
+F:\JAVA\C#\Actor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.AssemblyInfo.cs
